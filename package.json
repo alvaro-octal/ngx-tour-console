@@ -1,15 +1,38 @@
 {
-  "name": "ngx-tour-console",
-  "version": "4.2.0",
-  "repository": "https://github.com/isaacplmann/ngx-tour.git",
+  "name": "@ngx-tour/console",
+  "version": "1.0.0",
+  "repository": "https://github.com/alvaro-octal/ngx-tour-console.git",
   "author": "Isaac Mann <isaacplmann@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
     "@angular/common": ">=7.0.0 <11.0.0",
     "@angular/core": ">=7.0.0 <11.0.0",
-    "ngx-tour-core": "^4.2.0"
+    "@angular/forms": ">=7.0.0 <11.0.0",
+    "@ng-bootstrap/ng-bootstrap": ">=7.0.0 <8.0.0",
+    "@ngx-tour/core": "^1.0.0"
   },
   "dependencies": {
     "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "~0.1000.5",
+    "@angular-devkit/build-ng-packagr": "~0.1000.5",
+    "@angular/cli": "^10.0.5",
+    "@angular/common": "^10.2.3",
+    "@angular/compiler": "^10.0.5",
+    "@angular/compiler-cli": "^10.0.5",
+    "@angular/core": "^10.2.3",
+    "@angular/router": "^10.2.3",
+    "@angular/forms": "^10.2.3",
+    "@ngx-tour/core": "^1.0.0",
+    "cpx": "^1.5.0",
+    "ng-packagr": "^10.0.5",
+    "rxjs": "^6.6.3",
+    "typescript": "~3.9.7",
+    "@ng-bootstrap/ng-bootstrap": "^7.0.0"
+  },
+  "scripts": {
+    "build": "ng build @ngx-tour/console --prod && cpx CHANGELOG.md dist/",
+    "publish": "npm publish dist --access=public"
   }
 }

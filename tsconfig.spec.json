@@ -1,5 +1,5 @@
 {
-  "extends": "../../tsconfig.base.json",
+  "extends": "./tsconfig.base.json",
   "compilerOptions": {
     "outDir": "../../out-tsc/spec",
     "types": [
@@ -7,8 +7,8 @@
       "node"
     ],
     "paths": {
-      "ngx-tour-core": [
-        "dist/ngx-tour-core"
+      "@ngx-tour/core": [
+        "../ngx-tour-core/dist"
       ]
     }
   },

@@ -1,7 +1,7 @@
 import { CommonModule } from '@angular/common';
 import { ModuleWithProviders, NgModule } from '@angular/core';
 import { NgbPopoverModule } from '@ng-bootstrap/ng-bootstrap';
-import { TourHotkeyListenerComponent, TourModule, TourService } from 'ngx-tour-core';
+import { TourHotkeyListenerComponent, TourModule, TourService } from '@ngx-tour/core';
 
 import { TourAnchorConsoleDirective } from './tour-anchor.directive';
 
