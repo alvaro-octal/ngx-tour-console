@@ -5,12 +5,7 @@
     "types": [
       "jasmine",
       "node"
-    ],
-    "paths": {
-      "@ngx-tour/core": [
-        "../ngx-tour-core/dist"
-      ]
-    }
+    ]
   },
   "files": [
     "src/test.ts"
