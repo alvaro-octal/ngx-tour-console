@@ -1,12 +1,12 @@
 {
     "name": "@ngx-tour/console",
-    "version": "1.0.1",
+    "version": "11.0.0",
     "repository": "https://github.com/alvaro-octal/ngx-tour-console.git",
     "author": "Isaac Mann <isaacplmann@gmail.com>",
     "license": "MIT",
     "peerDependencies": {
-        "@ng-bootstrap/ng-bootstrap": ">=7.0.0 <8.0.0",
-        "@ngx-tour/core": "^1.0.0"
+        "@ng-bootstrap/ng-bootstrap": "^9.0.2",
+        "@ngx-tour/core": "^11.0.0"
     },
     "dependencies": {
         "tslib": "^2.0.0"
