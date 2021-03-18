@@ -1,3 +1,10 @@
+## [11.0.4](https://github.com/alvaro-octal/ngx-tour-console/compare/v11.0.3...v11.0.4) (2021-03-18)
+
+
+### Fix
+
+* Release Script ([19a3cb5](https://github.com/alvaro-octal/ngx-tour-console/commit/19a3cb5fd2b077b6c66255d23ea378e1b46348d2))
+
 <a name="4.2.0"></a>
 
 # [4.2.0](https://github.com/isaacplmann/ngx-tour) (2020-08-10)
