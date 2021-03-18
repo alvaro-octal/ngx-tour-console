@@ -1,4 +1,5 @@
-# Ngx-Tour Console
+# @ngx-tour/console
+[![npm version](https://badge.fury.io/js/%40ngx-tour%2Fconsole.svg)](https://badge.fury.io/js/%40ngx-tour%2Fconsole)
 [![Dependency Status](https://david-dm.org/alvaro-octal/ngx-tour-console.svg)](https://david-dm.org/alvaro-octal/ngx-tour-console)
 [![devDependency Status](https://david-dm.org/alvaro-octal/ngx-tour-console/dev-status.svg)](https://david-dm.org/alvaro-octal/ngx-tour-console?type=dev)
 
