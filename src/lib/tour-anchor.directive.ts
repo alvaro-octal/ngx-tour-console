@@ -2,9 +2,10 @@ import { TourAnchorDirective, TourService, IStepOption } from '@ngx-tour/core';
 import { Directive, Input, OnDestroy, OnInit } from '@angular/core';
 
 @Directive({
-  selector: '[tourAnchor]',
+  selector: '[tourAnchor]', // eslint-disable-line @angular-eslint/directive-selector
 })
-export class TourAnchorConsoleDirective implements OnInit, OnDestroy, TourAnchorDirective {
+export class TourAnchorConsoleDirective
+  implements OnInit, OnDestroy, TourAnchorDirective {
   @Input() public tourAnchor: string;
 
   constructor(private tourService: TourService) {}
