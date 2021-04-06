@@ -1,3 +1,14 @@
+## [11.0.5](https://github.com/ngx-tour/ngx-tour-console/compare/v11.0.4...v11.0.5) (2021-04-06)
+
+
+### Fix
+
+* update peer dependencies ([04d8c6f](https://github.com/ngx-tour/ngx-tour-console/commit/04d8c6ffae0d75642f8044f5ad2c51dd9481f918))
+
+### Minor
+
+* Change ownership ([efc3d60](https://github.com/ngx-tour/ngx-tour-console/commit/efc3d606949398b1bd038d94c9032140b3af9014))
+
 ## [11.0.4](https://github.com/ngx-tour/ngx-tour-console/compare/v11.0.3...v11.0.4) (2021-03-18)
 
 ### Fix
