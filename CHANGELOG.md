@@ -1,9 +1,8 @@
-## [11.0.4](https://github.com/alvaro-octal/ngx-tour-console/compare/v11.0.3...v11.0.4) (2021-03-18)
-
+## [11.0.4](https://github.com/ngx-tour/ngx-tour-console/compare/v11.0.3...v11.0.4) (2021-03-18)
 
 ### Fix
 
-* Release Script ([19a3cb5](https://github.com/alvaro-octal/ngx-tour-console/commit/19a3cb5fd2b077b6c66255d23ea378e1b46348d2))
+-   Release Script ([19a3cb5](https://github.com/ngx-tour/ngx-tour-console/commit/19a3cb5fd2b077b6c66255d23ea378e1b46348d2))
 
 <a name="4.2.0"></a>
 
@@ -11,7 +10,7 @@
 
 ### Features
 
-- Support Angular 10
+-   Support Angular 10
 
 <a name="4.1.1"></a>
 
@@ -19,7 +18,7 @@
 
 ### Fixes
 
-- Skip undefined tourAnchors
+-   Skip undefined tourAnchors
 
 <a name="4.1.0"></a>
 
@@ -27,8 +26,8 @@
 
 ### Features
 
-- Support Angular 8 as peer dependency
-- Support Ivy renderer
+-   Support Angular 8 as peer dependency
+-   Support Ivy renderer
 
 <a name="4.0.1"></a>
 
@@ -36,7 +35,7 @@
 
 ### Fixes
 
-- NavigationStart only hide currentStep if route is specified eg. routing used
+-   NavigationStart only hide currentStep if route is specified eg. routing used
 
 <a name="4.0.0"></a>
 
@@ -44,7 +43,7 @@
 
 ### BREAKING CHANGES
 
-- Require Angular 7 as peer dependency
+-   Require Angular 7 as peer dependency
 
 <a name="3.0.0"></a>
 
@@ -52,7 +51,7 @@
 
 ### BREAKING CHANGES
 
-- Require Angular 6 as peer dependency
+-   Require Angular 6 as peer dependency
 
 <a name="2.0.0"></a>
 
@@ -60,7 +59,7 @@
 
 ### BEAKING CHANGE
 
-- Update to ngx-tour-core 2.x (Angular 5 and disabling hotkeys)
+-   Update to ngx-tour-core 2.x (Angular 5 and disabling hotkeys)
 
 <a name="1.0.2"></a>
 
@@ -68,7 +67,7 @@
 
 ### Bug fixes
 
-- Fix AoT build
+-   Fix AoT build
 
 <a name="1.0.1"></a>
 
@@ -76,7 +75,7 @@
 
 ### Bug fixes
 
-- Export all of core exports
+-   Export all of core exports
 
 <a name="1.0.0"></a>
 
@@ -84,4 +83,4 @@
 
 ### BREAKING CHANGES
 
-- Split out to a separate package
+-   Split out to a separate package

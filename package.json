@@ -1,7 +1,7 @@
 {
     "name": "@ngx-tour/console",
     "version": "11.0.0",
-    "repository": "https://github.com/alvaro-octal/ngx-tour-console.git",
+    "repository": "https://github.com/ngx-tour/ngx-tour-console.git",
     "author": "Isaac Mann <isaacplmann@gmail.com>",
     "license": "MIT",
     "peerDependencies": {
