@@ -1,3 +1,10 @@
+## [11.0.6](https://github.com/ngx-tour/ngx-tour-console/compare/v11.0.5...v11.0.6) (2021-04-08)
+
+
+### Fix
+
+* update @ngx-tour/core ([2fd48ed](https://github.com/ngx-tour/ngx-tour-console/commit/2fd48ede3015c48f3e965505baad7b741576e276))
+
 ## [11.0.5](https://github.com/ngx-tour/ngx-tour-console/compare/v11.0.4...v11.0.5) (2021-04-06)
 
 
