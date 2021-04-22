@@ -26,6 +26,8 @@ jobs:
         run: npx prettier --check .
       - name: Building
         run: npm run build --if-present
+      - name: Testing
+        run: npm run test
 
   release:
     needs: build
